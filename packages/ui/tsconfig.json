@@ -1,0 +1,5 @@
+{
+  "extends": "@local101/tsconfig/react-library.json",
+  "include": ["."],
+  "exclude": ["dist", "build", "node_modules"]
+}
